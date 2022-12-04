@@ -21,6 +21,11 @@ Deployed using vercel in these three domains.
 - https://to-do-list-snowy-zeta.vercel.app/
 
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/MohitSaraff/To-Do-List/master/public/images/Screenshot.png)
+
+
 ## Tech Stack
 
 **Client:** HTML, CSS, EJS
